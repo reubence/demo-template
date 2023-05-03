@@ -1,3 +1,4 @@
+// delete this
 import { notFound, redirect } from "next/navigation"
 import { Post, User } from "@prisma/client"
 
